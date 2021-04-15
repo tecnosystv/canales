@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:1682
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:13
+#EXTINF:9.209367,
+https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/107_1682.ts
+#EXTINF:4.871367,
+https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/107_1683.ts
+#EXTINF:11.110367,
+https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/107_1684.ts
+#EXTINF:10.276367,
+https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/107_1685.ts
+#EXTINF:12.112367,
+https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/107_1686.ts
+#EXTINF:4.604367,
+https://live.televisiongratishd.com/hls/ts18e8mxa3xmnll/107_1687.ts
